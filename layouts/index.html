@@ -37,7 +37,10 @@
 
         <a class="nav-item" href="https://scholar.google.com/citations?user=1VbXUiwAAAAJ&hl=en&authuser=1">Papers</a>
         <a class="nav-item" href="http://github.com/stuartlynn">Github</a>
-        <a class="nav-item" href="talks">Talks</a>
+
+        {{ if .Site.Params.showTalks}}
+        <a class="nav-item" href="#talks">Talks</a>
+        {{ end }}
         <a class="nav-item" href="#contact">Contact</a>
     </nav>
     <hr>
@@ -93,9 +96,11 @@
     <div class="container"><hr></div>
     {{ end }}
 
+    {{ if .Site.Params.showTalks }}
     <div class="section" id="talks">
         {{ partial "talkssection.html" . }}
     </div>
+    {{ end }}
 
 
 <!-- Let's chat, shall we? -->
