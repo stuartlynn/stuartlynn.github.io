@@ -59,12 +59,12 @@ hugo -d "$TEMP" --quiet
 
 git checkout "$TARGET_BRANCH" --quiet &> /dev/null
 
-find -not -path "*.git*" -not -path "*$THEMES_DIR*" -not -name 'README.md' -type f -delete
-find -depth -not -path "*.git*" -not -path "*$THEMES_DIR*" -type d -empty -exec rmdir {} +
+find . -not -path "*.git*" -not -path "*$THEMES_DIR*" -not -name 'README.md' -type f -delete
+find . -depth -not -path "*.git*" -not -path "*$THEMES_DIR*" -type d -empty -exec rmdir {} +
 
 mv $TEMP/* .
 
-rmdir $TEMP
+rm -rf $TEMP
 
 git add . &> /dev/null
 
@@ -78,7 +78,7 @@ else
     git commit -m "Auto build for $CURRENT_COMMIT" -m "deployer version: $VERSION" --quiet
 
     output "Push..."
-    git push origin HEAD --quiet
+    git push -force origin HEAD --quiet
 fi
 
 git checkout "$CURRENT_BRANCH" --quiet
