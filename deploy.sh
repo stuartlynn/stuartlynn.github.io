@@ -1,4 +1,4 @@
-et* ]]
+[[ $@ == *--quiet* ]]
 QUIET=$?
 
 function output {
