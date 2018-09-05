@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stuart Lynn</title>
+    <link>https://stuartlynn.me/</link>
+    <description>Recent content on Stuart Lynn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://stuartlynn.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Million Walks in the Park</title>
+      <link>https://stuartlynn.me/projects/a-million-walks-in-the-park/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/a-million-walks-in-the-park/</guid>
+      <description>A project to explore the usage of parks and identify areas of shared experince within them through the analysis of massive dataset of GPS data</description>
+    </item>
+    
+    <item>
+      <title>Space of an Eye</title>
+      <link>https://stuartlynn.me/projects/space-of-an-eye/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/space-of-an-eye/</guid>
+      <description>A colaboration with the wonderful Adriene Lilly &amp;ldquo;Space of an Eye&amp;rdquo; combines an interactive experince with Adrienes soundscape focusing on an experince of eye surgery.
+The listerner aproatches the peice and puts on headphones through which they hear a recount of glaucoma surgery along with other ambient sounds and medical/religuous/biological takes of the eye.
+Space of an Eye collab w/ @Stuart_Lynn part of #seekingspace in Bushwick. Interactive sounds about eyes, surgery, fish.</description>
+    </item>
+    
+    <item>
+      <title>Voronoi Stars</title>
+      <link>https://stuartlynn.me/projects/voronoi-stars/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/voronoi-stars/</guid>
+      <description>A colaboration with the wonderful Lucy Pullen this project aimed to explore the vast empty spaces between the stars in our local solar neighborhood. 100 voronoi volumes where generated from the 100 nearest starts to the Sun. Each of these volumes represented the space closer to a specific star then any other. The volumes then are a representation not of the star but the spaces between them, shifting focus from the usual representaion of space to its negatuve.</description>
+    </item>
+    
+    <item>
+      <title>Who&#39;s On First GraphQL API</title>
+      <link>https://stuartlynn.me/projects/whos_on_first_graphql/</link>
+      <pubDate>Mon, 19 Feb 2018 18:15:40 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/whos_on_first_graphql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Train Shutdown Analysis</title>
+      <link>https://stuartlynn.me/projects/ltrain_analysis/</link>
+      <pubDate>Mon, 19 Feb 2018 18:08:35 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/ltrain_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Data Science Conference</title>
+      <link>https://stuartlynn.me/projects/spatail_datascience_conference/</link>
+      <pubDate>Mon, 19 Feb 2018 17:32:07 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/spatail_datascience_conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Journal of Astrophysics</title>
+      <link>https://stuartlynn.me/projects/open_journal_of_astrophysics/</link>
+      <pubDate>Mon, 19 Feb 2018 17:23:43 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/open_journal_of_astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal of Brief Ideas</title>
+      <link>https://stuartlynn.me/projects/journal_of_breif_ideas/</link>
+      <pubDate>Mon, 19 Feb 2018 17:23:32 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/journal_of_breif_ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cymru1900</title>
+      <link>https://stuartlynn.me/projects/cymru1900/</link>
+      <pubDate>Mon, 19 Feb 2018 17:04:00 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/cymru1900/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Slider</title>
+      <link>https://stuartlynn.me/projects/cell_slider/</link>
+      <pubDate>Mon, 19 Feb 2018 16:37:45 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/cell_slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Old Weather</title>
+      <link>https://stuartlynn.me/projects/old_weather/</link>
+      <pubDate>Mon, 19 Feb 2018 16:37:40 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/old_weather/</guid>
+      <description>Old weather was a Citizen Science project that asked members of the public to extract weather data from the
+![Old weather interface]()</description>
+    </item>
+    
+    <item>
+      <title>Scribe</title>
+      <link>https://stuartlynn.me/projects/scribe/</link>
+      <pubDate>Mon, 19 Feb 2018 16:37:35 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/scribe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seti live</title>
+      <link>https://stuartlynn.me/projects/seti_live/</link>
+      <pubDate>Mon, 19 Feb 2018 16:37:35 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/seti_live/</guid>
+      <description>SETILive was a project funded by the TED prize to build a crowd sourcing platform to hunt for signals in data from the Allen Telescope that might be other than terrestrial in origin. This was done by showing them frequency time plots in three bands and asking them to identify bright coherent lines that appeared in each and that where diagonal in nature.
+This system operated in real time as the telescope was observing.</description>
+    </item>
+    
+    <item>
+      <title>Planet Hunters</title>
+      <link>https://stuartlynn.me/projects/planet_hunters/</link>
+      <pubDate>Mon, 19 Feb 2018 16:37:08 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/planet_hunters/</guid>
+      <description> PlanetHunters.org was project that invited the public to search for extra solar planets
+Discoveries Stargazing Live </description>
+    </item>
+    
+    <item>
+      <title>Redshift Mirror</title>
+      <link>https://stuartlynn.me/projects/redshift_mirror/</link>
+      <pubDate>Sat, 03 Feb 2018 19:36:26 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/projects/redshift_mirror/</guid>
+      <description>The redshift mirror was a project built during the Dot Astronomy conference to try and visualise the resdhift or blueshift as objects in the universe move away or towards us  #dotastro redshift demonstration
+A post shared by amanda bauer (@astropixie) on Sep 18, 2013 at 10:20pm PDT
+ 
+It uses a Kinect camera to monitor a scene and estimates the velocity of objects in the scene either towards or away from the camera by diffing frames.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stuartlynn.me/about/</link>
+      <pubDate>Sat, 03 Feb 2018 12:22:29 -0500</pubDate>
+      
+      <guid>https://stuartlynn.me/about/</guid>
+      <description>Stuart is the head of Research and Data at CARTO a company that specializes in beautiful online geospatial visualizations and location analytics.
+He initially studied mathematical physics at Edinburgh University before deciding astronomy was prettier and easier to explain in bars and obtained a Ph.D. in astrophysics from Edinburgh University. He previously worked at the Adler Planetarium as a reasercher, developer and the technical lead of the Zooniverse: the largest collection of online citizen science projects.</description>
+    </item>
+    
+  </channel>
+</rss>
