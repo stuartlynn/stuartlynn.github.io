@@ -5,6 +5,7 @@ theme               = "introduction"
 enforce_ssl         = false
 builddrafts         = false                             # Include pages with draft status of true
 canonifyurls        = false                             # Turns relative urls into absolute urls
+publishBranch       = "gh-pages"
 # disqusshortname   = "xxx"                             # Enable Disqus for comments
 # googleAnalytics   = "xxx"
 
